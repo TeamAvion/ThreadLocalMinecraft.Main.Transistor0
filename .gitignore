@@ -1,0 +1,28 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+classes/production/Transistor()_main/com/example/examplemod/ExampleMod.class
+CREDITS-fml.txt
+forge-1.11.2-13.20.0.2282-changelog.txt
+LICENSE-new.txt
+*.txt
